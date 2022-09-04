@@ -1,0 +1,12 @@
+{
+  "name": "finaljs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "server": "json-server --watch db.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
